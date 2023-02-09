@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Wings</string>
+    <string name="minus_symbol">-</string>
+    <string name="plus_symbol">+</string>
+    <string name="price">%s</string>
+    <string name="find_product">Cari product yang kamu inginkan…</string>
+    <string name="wings_app">Wings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="not_found">Product yang Anda cari tidak dapat ditemukan</string>
+    <string name="discount">%d%</string>
+    <string name="cart_empty">Keranjang kosong, silakan tambahkan product terlebih dahulu</string>
+    <string name="total_checkout">"Total pesanan : %s "</string>
+    <string name="checkout_messcage">Checkout berhasil! Total pembayaran Anda adalah %s</string>
+    <string name="back">Kembali</string>
+    <string name="add_to_cart">Tambah ke keranjang : %s</string>
+    <string name="email">Email</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="send_email">Send email</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enter_email_and_password">Masukan email dan password</string>
+    <string name="email_cannot_be_empty">Email tidak boleh kosong</string>
+    <string name="invalid_email_format">Harap masukan format email dengan benar</string>
+    <string name="password_cannot_be_empty">Password tidak boleh kosong</string>
+    <string name="title_activity_login">LoginActivity</string>
 </resources>
