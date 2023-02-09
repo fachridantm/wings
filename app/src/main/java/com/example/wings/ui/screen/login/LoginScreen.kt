@@ -68,8 +68,8 @@ fun LoginContent(
     modifier: Modifier = Modifier,
     onLoginClick: (String, String) -> Unit,
 ) {
-    var email by remember { mutableStateOf("") }
-    var password by remember { mutableStateOf("") }
+    var email by rememberSaveable { mutableStateOf("") }
+    var password by rememberSaveable { mutableStateOf("") }
     var errorEmail by remember { mutableStateOf("") }
     var errorPassword by remember { mutableStateOf("") }
     var passwordVisibility: Boolean by remember { mutableStateOf(false) }
