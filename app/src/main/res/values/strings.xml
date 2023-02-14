@@ -25,5 +25,4 @@
     <string name="email_cannot_be_empty">Email tidak boleh kosong</string>
     <string name="invalid_email_format">Harap masukan format email dengan benar</string>
     <string name="password_cannot_be_empty">Password tidak boleh kosong</string>
-    <string name="title_activity_login">LoginActivity</string>
 </resources>
